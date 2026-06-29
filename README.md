@@ -2,7 +2,7 @@
 
 AI/ML researcher and software developer based in Guelph, ON. Currently wrapping up my MSc in Computer Science at the University of Guelph, where I work on LLM evaluation, code summarization, and NLP pipelines — with published work at CANAI'25, UEMCON'25, and iiWAS'24.
 
-By day I'm a Graduate Research & Teaching Assistant; by night I'm building **[Spokesfan](https://github.com/NeilPais)** — an AI-powered product discovery platform for Shopify.
+By day I'm a Graduate Research & Teaching Assistant; by night I'm building - 🛍️ **[Spokesfan](https://main.d32bmnfln9a90j.amplifyapp.com/chat)** — AI-powered product discovery platform for Shopify. Built as Forward Deployed Engineer, covering AI strategy, MVP development, and stakeholder delivery.
 
 ---
 
