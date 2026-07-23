@@ -28,3 +28,4 @@ By day I'm a Graduate Research & Teaching Assistant; by night I'm building - ðŸ›
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neil%20Pais-blue?logo=linkedin)](https://linkedin.com/in/neilallisterpais)
 [![Email](https://img.shields.io/badge/Email-neilallisterpais@gmail.com-red?logo=gmail)](mailto:neilallisterpais@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?logo=googlechrome&logoColor=white)](https://neil-pais-portfolio.neilallisterpais.chatgpt.site)
